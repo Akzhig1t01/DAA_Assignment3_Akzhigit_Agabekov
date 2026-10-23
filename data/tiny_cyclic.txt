@@ -1,0 +1,7 @@
+# directed with a cycle 0->1->2->0; SCCs: {0,1,2} {3} {4}
+5 5 directed
+0 1 2
+1 2 3
+2 0 1
+2 3 4
+3 4 5
