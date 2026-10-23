@@ -59,5 +59,8 @@ u v w        (m lines, vertices 0..n-1)
 Blank lines and lines starting with `#` are ignored.
 
 ## AI use acknowledgement
-This project was prepared with the help of an AI assistant (Claude, Anthropic): it produced the first version of the code, tests, scripts and report text.
-I ran the program and the tests, checked the reference values, and I can explain every algorithm and counter. (Edit this paragraph so that it states exactly what you did yourself.)
+## AI use acknowledgement
+I used an AI assistant (Claude) to help write the code, tests and report text.
+I ran the program and the tests myself, checked the results against the reference
+table, measured the timings on my own computer, and I can explain how every
+algorithm and counter works.
